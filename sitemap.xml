@@ -3,11 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anubhavm11.github.io/authors/admin/</loc>
+    <loc>https://anubhavm11.github.io/</loc>
+    <lastmod>2020-01-23T20:25:30+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://anubhavm11.github.io/</loc>
+    <loc>https://anubhavm11.github.io/tags/convex-optimization/</loc>
+    <lastmod>2020-01-23T20:25:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/project/online_convex_optimization/</loc>
+    <lastmod>2020-01-23T20:25:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/project/</loc>
+    <lastmod>2020-01-23T20:25:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/tags/research-project/</loc>
+    <lastmod>2020-01-23T20:25:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/tags/</loc>
+    <lastmod>2020-01-23T20:25:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/tags/image-processing/</loc>
+    <lastmod>2020-01-23T20:20:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-01-23T20:20:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/project/multimodal_vae/</loc>
+    <lastmod>2020-01-23T20:20:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/project/mcmc/</loc>
+    <lastmod>2020-01-23T20:20:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/project/sgd_restart/</loc>
+    <lastmod>2020-01-23T20:20:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/project/face_caricatures/</loc>
+    <lastmod>2020-01-23T20:20:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/project/atari/</loc>
+    <lastmod>2020-01-23T20:20:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/project/non-parametric_clustering/</loc>
+    <lastmod>2020-01-23T20:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anubhavm11.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -32,10 +98,6 @@
   
   <url>
     <loc>https://anubhavm11.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://anubhavm11.github.io/tags/</loc>
   </url>
   
 </urlset>

@@ -5,12 +5,44 @@
     <link>https://anubhavm11.github.io/tags/</link>
       <atom:link href="https://anubhavm11.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 20:25:30 +0530</lastBuildDate>
     <image>
       <url>https://anubhavm11.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://anubhavm11.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Convex Optimization</title>
+      <link>https://anubhavm11.github.io/tags/convex-optimization/</link>
+      <pubDate>Thu, 23 Jan 2020 20:25:30 +0530</pubDate>
+      <guid>https://anubhavm11.github.io/tags/convex-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research project</title>
+      <link>https://anubhavm11.github.io/tags/research-project/</link>
+      <pubDate>Thu, 23 Jan 2020 20:25:30 +0530</pubDate>
+      <guid>https://anubhavm11.github.io/tags/research-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>https://anubhavm11.github.io/tags/image-processing/</link>
+      <pubDate>Thu, 23 Jan 2020 20:20:25 +0530</pubDate>
+      <guid>https://anubhavm11.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://anubhavm11.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 23 Jan 2020 20:20:25 +0530</pubDate>
+      <guid>https://anubhavm11.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

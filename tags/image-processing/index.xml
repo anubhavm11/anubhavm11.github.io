@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Processing | Anubhav Mittal</title>
+    <link>https://anubhavm11.github.io/tags/image-processing/</link>
+      <atom:link href="https://anubhavm11.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 20:20:25 +0530</lastBuildDate>
+    <image>
+      <url>https://anubhavm11.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Image Processing</title>
+      <link>https://anubhavm11.github.io/tags/image-processing/</link>
+    </image>
+    
+    <item>
+      <title>Video Generation using Multimodal VAE</title>
+      <link>https://anubhavm11.github.io/project/multimodal_vae/</link>
+      <pubDate>Thu, 23 Jan 2020 20:20:25 +0530</pubDate>
+      <guid>https://anubhavm11.github.io/project/multimodal_vae/</guid>
+      <description>&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
+&lt;p&gt;This was my second undergraduate research project under &lt;a href=&#34;https://vinaypn.github.io/&#34;&gt;Prof. Vinay P. Namboodiri&lt;/a&gt;, Department of Computer Science and Engineering, IIT Kanpur, which I took up after completing his course &lt;a href=&#34;https://www.cse.iitk.ac.in/users/vinaypn/teaching/cs783/&#34;&gt;CS 783 : Visual Recognition&lt;/a&gt; in the Spring &amp;lsquo;19 term.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating face caricatures</title>
+      <link>https://anubhavm11.github.io/project/face_caricatures/</link>
+      <pubDate>Thu, 23 Jan 2020 20:20:10 +0530</pubDate>
+      <guid>https://anubhavm11.github.io/project/face_caricatures/</guid>
+      <description>&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
+&lt;p&gt;This project was done as part of the course &lt;a href=&#34;http://home.iitk.ac.in/~venkats/teaching.html&#34;&gt;EE604 : Image Processing&lt;/a&gt; in the Spring &amp;lsquo;18 term at IIT Kanpur under &lt;a href=&#34;http://home.iitk.ac.in/~venkats/&#34;&gt;Prof. K S Venkatesh&lt;/a&gt;, Department of Electrical Engineering, IIT Kanpur.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

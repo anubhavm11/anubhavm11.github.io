@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convex Optimization | Anubhav Mittal</title>
+    <link>https://anubhavm11.github.io/tags/convex-optimization/</link>
+      <atom:link href="https://anubhavm11.github.io/tags/convex-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Convex Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 20:25:30 +0530</lastBuildDate>
+    <image>
+      <url>https://anubhavm11.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Convex Optimization</title>
+      <link>https://anubhavm11.github.io/tags/convex-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Online Constrained Convex Optimization using Mirror Descent</title>
+      <link>https://anubhavm11.github.io/project/online_convex_optimization/</link>
+      <pubDate>Thu, 23 Jan 2020 20:25:30 +0530</pubDate>
+      <guid>https://anubhavm11.github.io/project/online_convex_optimization/</guid>
+      <description>&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
+&lt;p&gt;This project started as part of my summer research internship at IITK&#39;s &lt;a href=&#34;http://home.iitk.ac.in/~ketan/spinlab/index.html&#34;&gt;SPiN Lab&lt;/a&gt; under &lt;a href=&#34;http://home.iitk.ac.in/~ketan/&#34;&gt;Prof. Ketan Rajawat&lt;/a&gt;. Since then, we have designed two novel algorithms and are currently working on suitable experiments and writing the paper, which we hope to finish and submit soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

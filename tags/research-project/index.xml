@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anubhav Mittal</title>
-    <link>https://anubhavm11.github.io/</link>
-      <atom:link href="https://anubhavm11.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Anubhav Mittal</description>
+    <title>Research project | Anubhav Mittal</title>
+    <link>https://anubhavm11.github.io/tags/research-project/</link>
+      <atom:link href="https://anubhavm11.github.io/tags/research-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research project</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2020 20:25:30 +0530</lastBuildDate>
     <image>
       <url>https://anubhavm11.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Anubhav Mittal</title>
-      <link>https://anubhavm11.github.io/</link>
+      <title>Research project</title>
+      <link>https://anubhavm11.github.io/tags/research-project/</link>
     </image>
     
     <item>
@@ -49,36 +49,6 @@
       <guid>https://anubhavm11.github.io/project/sgd_restart/</guid>
       <description>&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
 &lt;p&gt;This was a research project at EPFL&#39;s &lt;a href=&#34;https://www.epfl.ch/labs/mlo/&#34;&gt;MLO Lab&lt;/a&gt;, mentored by &lt;a href=&#34;https://people.epfl.ch/martin.jaggi&#34;&gt;Prof. Martin Jaggi&lt;/a&gt; and &lt;a href=&#34;http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/&#34;&gt;Prof. Aymeric Dieulevieut&lt;/a&gt; during my semester exchange at &lt;a href=&#34;https://www.epfl.ch/en/&#34;&gt;EPFL&lt;/a&gt; in the fall of 2018.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Creating face caricatures</title>
-      <link>https://anubhavm11.github.io/project/face_caricatures/</link>
-      <pubDate>Thu, 23 Jan 2020 20:20:10 +0530</pubDate>
-      <guid>https://anubhavm11.github.io/project/face_caricatures/</guid>
-      <description>&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
-&lt;p&gt;This project was done as part of the course &lt;a href=&#34;http://home.iitk.ac.in/~venkats/teaching.html&#34;&gt;EE604 : Image Processing&lt;/a&gt; in the Spring &amp;lsquo;18 term at IIT Kanpur under &lt;a href=&#34;http://home.iitk.ac.in/~venkats/&#34;&gt;Prof. K S Venkatesh&lt;/a&gt;, Department of Electrical Engineering, IIT Kanpur.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Reinforcement Learning for Atari Games</title>
-      <link>https://anubhavm11.github.io/project/atari/</link>
-      <pubDate>Thu, 23 Jan 2020 20:20:05 +0530</pubDate>
-      <guid>https://anubhavm11.github.io/project/atari/</guid>
-      <description>&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
-&lt;p&gt;This project was done as part of the course &lt;a href=&#34;https://www.cse.iitk.ac.in/pages/CS771.html&#34;&gt;CS771: Machine Learning Techniques&lt;/a&gt;, in the Fall ‘17 term at IIT Kanpur under &lt;a href=&#34;https://www.cse.iitk.ac.in/users/purushot/&#34;&gt;Prof. Purushottam Kar&lt;/a&gt;, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Small variance asymptotics for non-parametric Bayesian clustering</title>
-      <link>https://anubhavm11.github.io/project/non-parametric_clustering/</link>
-      <pubDate>Thu, 23 Jan 2020 20:00:00 +0530</pubDate>
-      <guid>https://anubhavm11.github.io/project/non-parametric_clustering/</guid>
-      <description>&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
-&lt;p&gt;This project was done as part of the course &lt;a href=&#34;https://www.cse.iitk.ac.in/users/piyush/courses/tpmi_winter19/tpmi.html&#34;&gt;CS698X: Topics in Probabilistic Machine Learning and Inference&lt;/a&gt;, in the Spring ‘18 term at IIT Kanpur under &lt;a href=&#34;https://www.cse.iitk.ac.in/users/piyush/&#34;&gt;Prof. Piyush Rai&lt;/a&gt;, Department of Computer Science and Engineering, IIT Kanpur.&lt;/p&gt;
 </description>
     </item>
     
